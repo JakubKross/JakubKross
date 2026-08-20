@@ -13,4 +13,4 @@ I build Python applications, analyze data and care about software quality.
 ## Featured projects
 - 🌬️ DonQuixote — renewable energy planning application
 - 🔐 Cryptie — testing and quality engineering
-- 📊 Master's Thesis Research — data analysis and experiment automation
+- 📊 Master's Thesis Research — data analysis and experiment automation (publishing in progress)
