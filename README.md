@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Jakub 👋
 
-<!--
-**JakubKross/JakubKross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Full-Stack • Data Analysis • Testing
 
-Here are some ideas to get you started:
+I build Python applications, analyze data and care about software quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently focused on
+- 🐍 Python
+- 🌐 Full-stack development
+- 📊 Data analysis
+- 🧪 Automated testing
+
+## Featured projects
+- 🌬️ DonQuixote — renewable energy planning application
+- 🔐 Cryptie — testing and quality engineering
+- 📊 Master's Thesis Research — data analysis and experiment automation
